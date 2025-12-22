@@ -1,5 +1,5 @@
 ## Hi there !👋
-## 🙌 Let’ Connect!
+## 🙌 Let’s Connect!
 
 - 🔗 [GitHub](https://github.com/Ankit-865)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankitnamdev)
